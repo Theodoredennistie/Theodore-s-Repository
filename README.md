@@ -19,3 +19,4 @@ This calculater uses datasets to analyse the hand signal infront of it. It then 
 
 
 [View a video explanation here](video link)
+Dataset link-https://www.kaggle.com/datasets/akshitmadan/hand-signs-mnist-dataset 
