@@ -18,5 +18,5 @@ This calculater uses datasets to analyse the hand signal infront of it. It then 
 8. Click enter.
 
 
-[View a video explanation here](video link)
+[View a video explanation here](https://www.youtube.com/watch?v=j0ZTjgwYu9w)
 Dataset link-https://www.kaggle.com/datasets/akshitmadan/hand-signs-mnist-dataset 
